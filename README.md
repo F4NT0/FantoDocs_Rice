@@ -2,6 +2,13 @@
   <img src="images/NixOS-FantoDocs-Logo.png"
 </p>
 
+<p align="center">
+  <img src="images/Banner-FantoDocs.png">
+<p>
+
+
+---
+
 ## Programs
 
 |Name|Link|Config|Install
