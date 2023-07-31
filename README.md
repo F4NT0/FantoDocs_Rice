@@ -1,4 +1,6 @@
-# $$\mathbb{\color{lightgreen}FANTO \space DOCS \space RICE}$$
+<p align="center">
+  <img src="images/NixOS-FantoDocs-Logo.png"
+</p>
 
 ## Programs
 
