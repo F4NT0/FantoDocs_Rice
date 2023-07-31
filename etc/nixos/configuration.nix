@@ -106,14 +106,26 @@
   # Pacotes para o hyprland
   environment.systemPackages = with pkgs; [
       vim
+      brave
+      mpv
+      btop
+      ranger
+      gimp
+      git
       wget
-      pkgs.waybar
-      pkgs.dunst
+      waybar
+      dunst
       libnotify
       kitty
-      rofi-wayland
+      picom
+      rofi
       swww
-      pkgs.networkmanagerapplet
+      networkmanagerapplet
+  ];
+  
+  # Config fonts
+  fonts.fonts = with pkgs; [
+     (nerdfonts.override { fonts = [ "FiraCode" "DroidSansMono" ]; })
   ];
   
   xdg.portal.enable = true;
