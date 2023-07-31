@@ -1,12 +1,12 @@
-# Como configurar e instalar Hyprland no NixOS
+# How to configure Hyprland on NixOS
 
-- Localizaçao do arquivo de configuraçao do nixOS:
+- NixOS configuration folder location:
 
 ```shell
 etc/nixos/configuration.nix
 ```
 
-- Colocar a seguinte configuracao no arquivo:
+- Put this configuration into the file:
 
 ```shell
 programs.hyprland = {
@@ -21,7 +21,7 @@ programs.hyprland = {
 </p>
 
 
-- Reinicie o computador com o seguinte comando:
+- Restart the system with:
 
 ```shell
 sudo nixos-rebuild switch
