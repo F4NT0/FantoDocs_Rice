@@ -17,13 +17,24 @@
 
 ---
 
+## My OS configuration
+
+|Name|My Doc|Original Repo
+hyprland|[Hyprland config]()|[Hyprland Github]()
+nixos|[NixOS config]()|[NixOS Github]()
+
 ## Programs
 
-|Name|Link|Config|Install
+|Name|My Doc|Original Repo|status documentation
 |---|---|---|---|
-btop|[Btop Github]()|[My Config]()|`nix-env -iAv nixos.btop`
-light|[light Github]()|`sudo light -U(-A) 30 decrease(increase) light to 30`|`nix-env -iAv nixos.light`
+btop|[Btop config](.config/btop/README.md)|[Btop Github](https://github.com/aristocratos/btop)|:construction:
+light|[Light config](base/light/README.md)|[Light Github](http://haikarainen.github.io/light/)|:construction:
+kitty|[Kitty config](.config/kitty/README.md)|[Kitty Github](https://github.com/kovidgoyal/kitty)|:construction:
+ranger|[Ranger config](.config/ranger/README.md)|[Ranger Github](https://github.com/ranger/ranger)|:construction:
+lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|:check_mark:
 
+
+## Other programs (for my workflow)
 
 - Vscode install: `NIXPKGS_ALLOW_UNFREE=1 nix-env -iA nixos.vscode`
 - Discord install: `NIXPKGS_ALLOW_UNFREE=1 nix-env -iA nixos.discord`

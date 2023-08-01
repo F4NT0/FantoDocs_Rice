@@ -109,7 +109,8 @@
       brave
       mpv
       btop
-      ranger
+      ranger-fm
+      ueberzug	
       gimp
       git
       wget
