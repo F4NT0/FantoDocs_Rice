@@ -24,7 +24,7 @@ enviroment.systemPackages = with pkgs; [
 
 ```shell
 set preview_images true
-set preview_images_method jitty
+set preview_images_method kitty
 ```
 
 ## Font into kitty terminal

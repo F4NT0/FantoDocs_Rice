@@ -18,35 +18,10 @@ enviroment.systemPackages = with pkgs; [
 
 ## Configuration 
 
-- The file configuration is in `~/.config/kitty/kitty.conf`
+- The directory of my configuration is in `~/.config/kitty`
 - My configuration is in the **kitty.conf** file in this folder
 - my Kitty theme is in the **Github.conf** file in this folder 
 
 ## Prompt Configuration
 
-- We are going to use oh-my-posh to configure the terminal
-
-### Download oh-my-posh
-
-- First download the unzip
-
-```shell
-nix-env -iAv nixos.unzip
-```
-
-- Then install oh-my-posh
-
-```shell
-nix-env -iAv nixos.oh-my-posh
-```
-
-- To check if it was installed
-
-```shell
-eval "$(oh-my-posh init bash)"
-```
-
-### Configure oh-my-posh
-
-- I create a theme to use in my console, in the **fantodocs.omp.json**
-- I call in the end of the .bashrc where is my bash configuration
+- We are going to use [oh-my-posh](oh-my-posh/README.md) to configure the terminal.

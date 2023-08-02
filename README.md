@@ -33,6 +33,8 @@ light|[Light config](base/light/README.md)|[Light Github](http://haikarainen.git
 kitty|[Kitty config](.config/kitty/README.md)|[Kitty Github](https://github.com/kovidgoyal/kitty)|:construction:
 ranger|[Ranger config](.config/ranger/README.md)|[Ranger Github](https://github.com/ranger/ranger)|:construction:
 lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|✔️
+rofi|[Rofi config](.config/rofi/README.md)|[Rofi Github](https://github.com/davatorium/rofi)|✔️
+oh-my-posh|[OhMyPosh config](.config/oh-my-posh/README.md)|[Oh-my-posh Github](https://github.com/jandedobbeleer/oh-my-posh)|✔️
 
 
 ## Other programs (for my workflow)
