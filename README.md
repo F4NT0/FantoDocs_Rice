@@ -20,8 +20,9 @@
 ## My OS configuration
 
 |Name|My Doc|Original Repo
-hyprland|[Hyprland config]()|[Hyprland Github]()
-nixos|[NixOS config]()|[NixOS Github]()
+|---|---|---|
+hyprland|[Hyprland config](https://github.com/F4NT0/FantoDocs_Rice/blob/main/.config/hypr/hyprland.conf)|[Hyprland Github](https://github.com/hyprwm/Hyprland)
+nixos|[NixOS config](https://github.com/F4NT0/FantoDocs_Rice/blob/main/etc/nixos/configuration.nix)|[NixOS Github](https://github.com/NixOS/nixpkgs)
 
 ## Programs
 
