@@ -32,7 +32,7 @@ btop|[Btop config](.config/btop/README.md)|[Btop Github](https://github.com/aris
 light|[Light config](base/light/README.md)|[Light Github](http://haikarainen.github.io/light/)|:construction:
 kitty|[Kitty config](.config/kitty/README.md)|[Kitty Github](https://github.com/kovidgoyal/kitty)|:construction:
 ranger|[Ranger config](.config/ranger/README.md)|[Ranger Github](https://github.com/ranger/ranger)|:construction:
-lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|:check_mark:
+lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|✔️
 
 
 ## Other programs (for my workflow)
