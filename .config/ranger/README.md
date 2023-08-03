@@ -40,6 +40,16 @@ set preview_images_method kitty
 default_linemode devicons
 ```
 
+## Highlight code
+
+- You can see code files into ranger, to show highlight of this code just install `highlight`
+
+```shell
+nix-env -iAv nixos.highlight
+```
+
+- When you open again ranger, the files are going to show highlighted.
+
 
 
 
