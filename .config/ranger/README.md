@@ -27,7 +27,9 @@ set preview_images true
 set preview_images_method kitty
 ```
 
-## Font into kitty terminal
+## Colorschemes
+
+- add the `Github.py` file inside the `~/.config/ranger/colorschemes`
 
 
 

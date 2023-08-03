@@ -29,12 +29,12 @@ nixos|[NixOS config](https://github.com/F4NT0/FantoDocs_Rice/blob/main/etc/nixos
 |Name|My Doc|Original Repo|status documentation
 |---|---|---|---|
 btop|[Btop config](.config/btop/README.md)|[Btop Github](https://github.com/aristocratos/btop)|:construction:
-light|[Light config](base/light/README.md)|[Light Github](http://haikarainen.github.io/light/)|:construction:
-kitty|[Kitty config](.config/kitty/README.md)|[Kitty Github](https://github.com/kovidgoyal/kitty)|:construction:
+light|[Light config](base/light/README.md)|[Light Github](http://haikarainen.github.io/light/)|$\sf\color{lightgreen}OK$
+kitty|[Kitty config](.config/kitty/README.md)|[Kitty Github](https://github.com/kovidgoyal/kitty)|$\sf\color{lightgreen}OK$
 ranger|[Ranger config](.config/ranger/README.md)|[Ranger Github](https://github.com/ranger/ranger)|:construction:
-lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|✔️
-rofi|[Rofi config](.config/rofi/README.md)|[Rofi Github](https://github.com/davatorium/rofi)|✔️
-oh-my-posh|[OhMyPosh config](.config/oh-my-posh/README.md)|[Oh-my-posh Github](https://github.com/jandedobbeleer/oh-my-posh)|✔️
+lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|$\sf\color{lightgreen}OK$
+rofi|[Rofi config](.config/rofi/README.md)|[Rofi Github](https://github.com/davatorium/rofi)|$\sf\color{lightgreen}OK$
+oh-my-posh|[OhMyPosh config](.config/oh-my-posh/README.md)|[Oh-my-posh Github](https://github.com/jandedobbeleer/oh-my-posh)|$\sf\color{lightgreen}OK$
 
 
 ## Other programs (for my workflow)

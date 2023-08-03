@@ -74,7 +74,7 @@ alias -- f='firefox &'
 # The colors using ls command
 # ------------------------
 
-LS_COLORS=$LS_COLORS:'di=1;90:ex=0;32:*.png=0;93:*.jpg=0;93:*.zip=0;97:*deb=0;31:fi=0;34:*.nix=0;95:*.conf=0;95:*.java=0;33:*.class=1;33:*.cs=0;96:*.csproj=0;96:*.md=0;94:*.json=0;32:*.sh=0;92:*.py=0;94:*.=0;42';
+LS_COLORS=$LS_COLORS:'di=1;97:ex=0;32:*.png=0;93:*.jpg=0;93:*.zip=0;97:*deb=0;31:fi=0;34:*.nix=0;95:*.conf=0;95:*.java=0;33:*.class=1;33:*.cs=0;96:*.csproj=0;96:*.md=0;94:*.json=0;32:*.sh=0;92:*.py=0;94:*.=0;42';
 export LS_COLORS;
 
 # -------------------------
