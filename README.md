@@ -35,6 +35,7 @@ ranger|[Ranger config](.config/ranger/README.md)|[Ranger Github](https://github.
 lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|$\sf\color{lightgreen}OK$
 rofi|[Rofi config](.config/rofi/README.md)|[Rofi Github](https://github.com/davatorium/rofi)|$\sf\color{lightgreen}OK$
 oh-my-posh|[OhMyPosh config](.config/oh-my-posh/README.md)|[Oh-my-posh Github](https://github.com/jandedobbeleer/oh-my-posh)|$\sf\color{lightgreen}OK$
+shotman|[Shotman config](base/shotman/README.md)|[Shotman Git](https://git.sr.ht/~whynothugo/shotman)|$\sf\color{lightgreen}OK$
 
 
 ## Other programs (for my workflow)
