@@ -16,16 +16,16 @@ class Github(ColorScheme):
             else:
                 attr = normal
             if context.empty or context.error:
-                fg = black
-                bg = white
+                fg = white
+                bg = black
             if context.border:
                 fg = white
             if context.image:
-                fg = cyan
+                fg = yellow
             if context.video:
-                fg = cyan
+                fg = orange
             if context.audio:
-                fg = cyan
+                fg = magenta
             if context.document:
                 fg = black
             if context.container:
@@ -33,12 +33,11 @@ class Github(ColorScheme):
                 fg = red
             if context.directory:
                 attr |= normal
-                fg = white
+                fg = green
             elif context.executable and not \
-                    any((context.media, context.container,
-                       context.fifo, context.socket)):
+                    any((context.media, context.container, context.fifo, context.socket)):
                 attr |= bold
-                fg = red
+                fg = magenta
             if context.socket:
                 fg = cyan
                 attr |= bold
