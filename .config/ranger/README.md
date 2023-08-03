@@ -31,7 +31,14 @@ set preview_images_method kitty
 
 - add the `Github.py` file inside the `~/.config/ranger/colorschemes`
 
+## Plugins
 
+- add the `devicons.py` and `__init__.py` file inside the `~/.config/ranger/plugins`
+- add in the end of the `rc.conf` the following code:
+
+```shell
+default_linemode devicons
+```
 
 
 
