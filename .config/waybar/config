@@ -4,11 +4,7 @@
     "height": 33,
 
     "modules-left": [
-        "hyprland/workspaces"
-    ],
- 
-    "modules-center": [
-        "hyprland/window"
+        "wlr/workspaces"
     ],
 
     "modules-right": [
@@ -23,15 +19,11 @@
         "tray"
     ],
 
-    "hyprland/workspaces": {
-        "disable_scroll": true,
-        "on-click": "activate"
-    },
-
-    "hyprland/window": {
-        "format": "{}",
-        "separate-outputs": true
-    },
+    "wlr/workspaces": {
+        "format": "{icon}",
+        "on-scroll-up": "hyprctl dispatch workspace e+1",
+        "on-scroll-down": "hyprctl dispatch workspace e-1"
+   },
 
     "battery": {
         "states": {

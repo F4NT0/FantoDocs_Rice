@@ -59,3 +59,11 @@ nix-env -iAv nixos.font-manager
 <p align="center">
     <img src="images/7.png">
 </p>
+
+## Add into Rofi
+
+- You can change the font into `config.rasi` file
+
+<p align="center">
+    <img src="images/8.png">
+</p>

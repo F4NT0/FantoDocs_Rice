@@ -17,6 +17,7 @@
 configuration {
 	modi:                       "drun,run,filebrowser,ssh,window";
   show-icons:                 true;
+  font: "FiraCode Nerd Font Mono";
   display-drun:               "💽 Apps";
   display-run:                " Run";
   display-filebrowser:        " Files";

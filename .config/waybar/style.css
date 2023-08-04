@@ -32,8 +32,8 @@
     background: transparent;
     color: #c6cdd5;
     background-color: #0d1117;
-    font-family: FiraCode;
-    font-size: 10px;
+    font-family: FiraCode Nerd Font Mono;
+    font-size: 12px;
 }
 
 #battery,
@@ -54,10 +54,15 @@
     margin: 1px 0px;
 }
 
+#clock {
+    color: #cea5fb;
+}
+
 #battery {
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     animation-direction: alternate;
+    color: #7ce38b;
 }
 
 #battery.warning {
@@ -90,6 +95,7 @@
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     animation-direction: alternate;
+    color: #89929b;
 }
 
 #memory.warning {
@@ -113,11 +119,16 @@
 }
 
 #network.disconnected {
-    color: orange;
+    color: #fa7970;
+}
+
+#network.connected {
+    color: #faa356;
 }
 
 #pulseaudio {
     padding-top:6px;
+    color: #77bdfb;
 }
 
 #pulseaudio.muted {
@@ -130,6 +141,7 @@
 
 #window {
     font-weight: bold;
+    color: #a2d2fb;
 }
 
 #workspaces {
