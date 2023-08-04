@@ -1,5 +1,9 @@
 # Ranger configuration
 
+<p align="center">
+    <img src="images/1.png">
+</p>
+
 ## Instalation
 
 - To install Ranger into nixOS use the following command:
