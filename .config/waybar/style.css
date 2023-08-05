@@ -32,7 +32,7 @@
     background: transparent;
     color: #c6cdd5;
     background-color: #0d1117;
-    font-family: FiraCode Nerd Font Mono;
+    font-family: FiraCode Nerd Font;
     font-size: 12px;
 }
 
@@ -156,7 +156,7 @@
 }
 
 #workspaces button.active {
-    border-bottom: 3px solid  #0d1117;
+    border-bottom: 3px solid  #b0bac9;
     margin-bottom: 1px;
     padding-left:0;
     color: #c6cdd5;

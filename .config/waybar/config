@@ -1,13 +1,10 @@
 {
     "layer": "top",
     "position": "top",
-    "height": 33,
-
-    "modules-left": [
-        "wlr/workspaces"
-    ],
+    "height": 10,
 
     "modules-right": [
+        "wlr/workspaces",
         "network",
         "memory",
         "cpu",
@@ -23,7 +20,7 @@
         "format": "{icon}",
         "on-scroll-up": "hyprctl dispatch workspace e+1",
         "on-scroll-down": "hyprctl dispatch workspace e-1"
-   },
+    },
 
     "battery": {
         "states": {
