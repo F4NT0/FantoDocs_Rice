@@ -40,21 +40,25 @@
 hyprland|[Hyprland config](https://github.com/F4NT0/FantoDocs_Rice/blob/main/.config/hypr/hyprland.conf)|[Hyprland Github](https://github.com/hyprwm/Hyprland)
 nixos|[NixOS config](https://github.com/F4NT0/FantoDocs_Rice/blob/main/etc/nixos/configuration.nix)|[NixOS Github](https://github.com/NixOS/nixpkgs)
 
-## Programs
+## Program configurations
 
 |Name|My Doc|Original Repo|status documentation
 |---|---|---|---|
-btop|[Btop config](.config/btop/README.md)|[Btop Github](https://github.com/aristocratos/btop)|$\sf\color{orange}Almost \space done$
-light|[Light config](base/light/README.md)|[Light Github](http://haikarainen.github.io/light/)|$\sf\color{lightgreen}OK$
-kitty|[Kitty config](.config/kitty/README.md)|[Kitty Github](https://github.com/kovidgoyal/kitty)|$\sf\color{lightgreen}OK$
-ranger|[Ranger config](.config/ranger/README.md)|[Ranger Github](https://github.com/ranger/ranger)|$\sf\color{lightgreen}OK$
-lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|$\sf\color{lightgreen}OK$
-rofi|[Rofi config](.config/rofi/README.md)|[Rofi Github](https://github.com/davatorium/rofi)|$\sf\color{lightgreen}OK$
-oh-my-posh|[OhMyPosh config](.config/oh-my-posh/README.md)|[Oh-my-posh Github](https://github.com/jandedobbeleer/oh-my-posh)|$\sf\color{lightgreen}OK$
-shotman|[Shotman config](base/shotman/README.md)|[Shotman Git](https://git.sr.ht/~whynothugo/shotman)|$\sf\color{lightgreen}OK$
-qutebrowser|[Qutebrowser config](.config/qutebrowser/README.md)|[Qutebrowser Github](https://github.com/qutebrowser/qutebrowser)|$\sf\color{orange}Almost \space done$
-neofetch|[Neofetch config](.config/neofetch/README.md)|[Neofetch Github](https://github.com/Chick2D/neofetch-themes/tree/main)|$\sf\color{lightgreen}OK$
+btop|[Btop config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/btop)|[Btop Github](https://github.com/aristocratos/btop)|$\sf\color{orange}Almost \space done$
+kitty|[Kitty config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/kitty)|[Kitty Github](https://github.com/kovidgoyal/kitty)|$\sf\color{lightgreen}OK$
+ranger|[Ranger config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/ranger)|[Ranger Github](https://github.com/ranger/ranger)|$\sf\color{lightgreen}OK$
+rofi|[Rofi config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/rofi)|[Rofi Github](https://github.com/davatorium/rofi)|$\sf\color{lightgreen}OK$
+oh-my-posh|[OhMyPosh config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/oh-my-posh)|[Oh-my-posh Github](https://github.com/jandedobbeleer/oh-my-posh)|$\sf\color{lightgreen}OK$
+qutebrowser|[Qutebrowser config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/qutebrowser)|[Qutebrowser Github](https://github.com/qutebrowser/qutebrowser)|$\sf\color{orange}Almost \space done$
+neofetch|[Neofetch config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/neofetch)|[Neofetch Github](https://github.com/Chick2D/neofetch-themes/tree/main)|$\sf\color{lightgreen}OK$
 
+## Basic Programs
+
+|Name|My Doc|Original Repo|status documentation
+|---|---|---|---|
+light|[Light config](base/light/README.md)|[Light Github](http://haikarainen.github.io/light/)|$\sf\color{lightgreen}OK$
+lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|$\sf\color{lightgreen}OK$
+shotman|[Shotman config](base/shotman/README.md)|[Shotman Git](https://git.sr.ht/~whynothugo/shotman)|$\sf\color{lightgreen}OK$
 
 ## Other programs (for my workflow)
 
