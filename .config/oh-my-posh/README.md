@@ -1,5 +1,9 @@
 # Oh-my-posh configuration
 
+<p align="center">
+    <img src="images/ohmyposh.png">
+</p>
+
 ## Bashrc configuration
 
 - First before go to oh-my-posh you need to have the following file into your home (~) folder:

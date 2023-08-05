@@ -1,9 +1,15 @@
 # Rofi configuration
 
+<p align="center">
+    <img src="images/rofi.png">
+</p>
+
 - Rofi is a linux program to select a program or command installed into the system.
 
 - The location of the configuration is: `~/.config/rofi/config.rasi`
 - The theme location is: `~/.config/rofi/github-theme.rasi`
+
+## Installation
 
 - To install this program use the following command:
 

@@ -1,5 +1,9 @@
 # Kitty Console Configuration
 
+<p align="center">
+    <img src="images/kitty.png">
+</p>
+
 ## Installation
 
 - You can install kitty on NixOS using the following command:

@@ -146,6 +146,7 @@
       ranger
       ueberzug	
       gimp
+      qutebrowser
       git
       wget
       waybar

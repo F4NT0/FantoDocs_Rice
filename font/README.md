@@ -69,5 +69,3 @@ configuration {
 ## Add into oh-my-posh
 
 - oh-my-posh get the same font configured into Kitty console.
-
-## 

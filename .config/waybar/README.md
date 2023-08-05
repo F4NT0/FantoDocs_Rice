@@ -1,5 +1,9 @@
 # Waybar configuration
 
+<p align="center">
+    <img src="images/waybar.png">
+</p>
+
 ## Installation
 
 - Insert into the `etc/nixos/configuration.nix` the waybar software:
