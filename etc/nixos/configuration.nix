@@ -72,8 +72,24 @@
   services.xserver.enable = true;
 
   # Enable the KDE Plasma Desktop Environment.
-  services.xserver.displayManager.sddm.enable = true;
+  #services.xserver.displayManager.sddm.enable = true;
   services.xserver.desktopManager.plasma5.enable = true;
+
+  # ---------------------- 
+  # TUIGREET LOGIN MANAGER
+  # ----------------------
+  services.greetd = {
+    enable = true;
+    settings = {
+     default_session.command = ''
+      ${pkgs.greetd.tuigreet}/bin/tuigreet \
+        --time \
+        --asterisks \
+        --user-menu \
+        --cmd Hyprland
+    '';
+    };
+  };
 
   # ------------------------
   # KEYBOARD CONFIGURATIONS
@@ -87,7 +103,7 @@
 
   # Configure console keymap
   console.keyMap = "br-abnt2";
-
+ 
   # --------------------
   # PRINT CONFIGURATION
   # --------------------
@@ -146,13 +162,14 @@
       ranger
       ueberzug	
       gimp
-      qutebrowser
       git
       wget
       waybar
       dunst
+      qutebrowser
       libnotify
       kitty
+      greetd.tuigreet
       picom
       rofi
       swww
