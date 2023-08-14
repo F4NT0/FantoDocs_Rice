@@ -35,12 +35,16 @@
 
 ## My OS configuration
 
+- The configurations to make work the OS and WM
+
 |Name|My Doc|Original Repo
 |---|---|---|
 hyprland|[Hyprland config](https://github.com/F4NT0/FantoDocs_Rice/blob/main/.config/hypr/hyprland.conf)|[Hyprland Github](https://github.com/hyprwm/Hyprland)
 nixos|[NixOS config](https://github.com/F4NT0/FantoDocs_Rice/blob/main/etc/nixos/configuration.nix)|[NixOS Github](https://github.com/NixOS/nixpkgs)
 
 ## Program configurations
+
+- The programs I use and change the basic configurations
 
 |Name|My Doc|Original Repo|status documentation
 |---|---|---|---|
@@ -51,14 +55,19 @@ rofi|[Rofi config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/rof
 oh-my-posh|[OhMyPosh config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/oh-my-posh)|[Oh-my-posh Github](https://github.com/jandedobbeleer/oh-my-posh)|$\sf\color{lightgreen}OK$
 qutebrowser|[Qutebrowser config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/qutebrowser)|[Qutebrowser Github](https://github.com/qutebrowser/qutebrowser)|$\sf\color{orange}Almost \space done$
 neofetch|[Neofetch config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/neofetch)|[Neofetch Github](https://github.com/Chick2D/neofetch-themes/tree/main)|$\sf\color{lightgreen}OK$
+Fish Shell|[Fish Shell Config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/fish)|[Fish Github](https://github.com/fish-shell/fish-shell)|$\sf\color{lightgreen}OK$
+Nvchad Neovim|[Nvchad Config](https://github.com/F4NT0/FantoDocs_Rice/tree/main/.config/nvim)|[NvChad Github](https://github.com/NvChad/NvChad)|$\sf\color{orange}Almost \space done$
 
 ## Basic Programs
 
+- Programs that I use but I don't change the configurations
+
 |Name|My Doc|Original Repo|status documentation
 |---|---|---|---|
-light|[Light config](base/light/README.md)|[Light Github](http://haikarainen.github.io/light/)|$\sf\color{lightgreen}OK$
-lsd|[Lsd config](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|$\sf\color{lightgreen}OK$
-shotman|[Shotman config](base/shotman/README.md)|[Shotman Git](https://git.sr.ht/~whynothugo/shotman)|$\sf\color{lightgreen}OK$
+light|[Light Doc](base/light/README.md)|[Light Github](http://haikarainen.github.io/light/)|$\sf\color{lightgreen}OK$
+lsd|[Lsd Doc](base/light/README.md)|[Lsd Github](https://github.com/lsd-rs/lsd)|$\sf\color{lightgreen}OK$
+shotman|[Shotman Doc](base/shotman/README.md)|[Shotman Git](https://git.sr.ht/~whynothugo/shotman)|$\sf\color{lightgreen}OK$
+tuigreet|[Tuigreet Doc](base/tuigreet/README.md)|[Tuigreet Git](https://github.com/apognu/tuigreet)|$\sf\color{lightgreen}OK$
 
 ## Other programs (for my workflow)
 
