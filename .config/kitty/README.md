@@ -14,7 +14,7 @@ nix-env -iAv nixos.kitty
 
 - Or add into your nixos configuration file like below:
 
-```kitty
+```shell
 enviroment.systemPackages = with pkgs; [
     kitty
 ];
